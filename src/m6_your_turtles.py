@@ -10,7 +10,7 @@ Authors: David Mutchler, Vibha Alangar, Matt Boutell, Dave Fisher,
 ########################################################################
 
 ########################################################################
-# TODO: 2.
+# DONE: 2.
 #   You should have RUN the  m5e_loopy_turtles  module and READ its code.
 #   (Do so now if you have not already done so.)
 #
@@ -58,19 +58,6 @@ for k in range (50):
     circle.right(90)
     circle.pen_down()
     radius = radius/1.1
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 window.close_on_mouse_click()
